@@ -1,6 +1,7 @@
 # Data-Science-Interactive-Apps
 
 ### 1) Stock Price : To Use and Access the App Click on the Image Below 👇
+(https://simple-stock-price.herokuapp.com/)
 
 #### This App show the Stock of Closing Price and Volume of google from Yahoo Finance Data.
 
