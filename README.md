@@ -1,5 +1,7 @@
 # Data-Science-Interactive-Apps
 
+#### Tip: Wait for few seconds to load the page or Reload it in case if page is not opening 😊
+
 ### 1) Stock Price : To Use and Access the App Click on the Image Below 👇
 
 #### This App show the Stock of Closing Price and Volume of google from Yahoo Finance Data.
